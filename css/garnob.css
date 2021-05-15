@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+.pic img {
+    border-radius: 50px;
+    width: 300px;
+    height: 250px;
+}
+.pic{
+    display: inline-block;
+    margin-left: 12%;
+    float: left;
+}
+
+
+.cart{
+    border-color: rgb(24, 160, 50) ;
+    border-radius: 8px;
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 17%;
+    background-color: rgb(24, 160, 50);
+}
+
+
+.pr{
+    margin-left: 53%;
+    color: rgb(24, 160, 50);
+}
+
+.txt1{
+    display: inline-block;
+    margin-left: 5%;
+}
+.txt1 ol{
+    
+}
+.txt1 b{
+    color: rgb(24, 160, 50);
+}

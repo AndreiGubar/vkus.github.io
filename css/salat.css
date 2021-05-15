@@ -1,0 +1,133 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+
+.sal1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sal1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sal1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 23%;
+    float: left;
+}
+.sal1:hover {
+    transform: scale(1.2);
+}
+
+
+.sal2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sal2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sal2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.sal2:hover {
+    transform: scale(1.2);
+}
+
+
+.sal3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sal3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sal3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.sal3:hover {
+    transform: scale(1.2);
+}
+
+
+.sal4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sal4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sal4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 23%;
+    float: left;
+}
+.sal4:hover {
+    transform: scale(1.2);
+}
+
+
+.sal5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sal5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sal5 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.sal5:hover {
+    transform: scale(1.2);
+}
+
+
+.sal6 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sal6 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sal6 {display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.sal6:hover {
+    transform: scale(1.2);
+}

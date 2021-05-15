@@ -1,0 +1,113 @@
+*{
+    background: #f2f3f4;
+}
+
+
+/*Лого*/
+.logo{
+    float: left;
+}
+
+.log1{
+    margin-top: 1%;
+}
+
+.log1{
+    margin-top: 1%;
+}
+
+.vkus {
+    margin-left: 10%;
+    float: left;
+}
+
+/*соцсети*/
+
+.logvk{
+    margin-left: 25%;
+    margin-bottom: 0.5%;
+    margin-top: 2%;
+    margin-right: 0.5%;
+    width: 25px;
+    height: 25px;
+}
+.logok{
+    margin-bottom: 0.5%;
+    margin-top: 2%;
+    margin-right: 0.5%;
+    width: 25px;
+    height: 25px;
+}
+.loginst{
+    margin-bottom: 0.5%;
+    margin-top: 2%;
+    width: 25px;
+    height: 25px;
+}
+
+/*поиск*/
+
+.find {
+    text-align: right;
+    margin-right: 8%;
+    height: 25px;
+}
+
+
+
+/*Меню*/
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+.menu {
+    clear: left;
+    list-style: none;
+    padding: 0 30px;
+    margin: 0;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    background-color:rgb(24, 160, 50);
+}
+
+.menu li {
+    display: inline-block;
+    padding: 5px 0;
+    background-color: rgb(24, 160, 50);
+}
+.menu a {
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px 5px;
+    padding: 6px 15px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+    border-bottom: 1px solid transparent;
+    transition: .3s linear;
+    background-color: rgb(24, 160, 50);
+}
+.menu .current, .menu a:hover {
+    border-radius: 3px;
+    background:rgb(107, 177, 44);
+    color: rgb(159, 255, 191);
+    border-color: rgb(24, 160, 50);
+}
+@media (max-width: 500px) {
+    .menu li {display: block;}
+}
+
+
+
+
+
+
+/*footer*/
+
+.ftxt {
+    margin-bottom: 0.5 em;
+    margin-top: 0.5 em;
+    margin-left: 7%;
+    font-size: 10pt;
+    float: left;
+}
+

@@ -1,0 +1,113 @@
+*{
+        background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+    color: rgb(24, 160, 50);
+    font-size: 28pt;
+    font-weight: bolder;
+}
+
+
+.kom1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.kom1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.kom1{
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 30%;
+    transform: 1s;
+    float: left;
+}
+.kom1:hover {
+    transform: scale(1.2);
+}
+
+
+.kom2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.kom2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.kom2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 6%;
+}
+.kom2:hover {
+    transform: scale(1.2);
+}
+
+
+.kom3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.kom3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.kom3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 20%;
+    float: left;
+}
+.kom3:hover {
+    transform: scale(1.2);
+}
+
+
+.kom4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.kom4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.kom4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 6%;
+    float: left;
+}
+.kom4:hover {
+    transform: scale(1.2);
+}
+
+
+.kom5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.kom5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.kom5 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 6%;
+}
+.kom5:hover {
+    transform: scale(1.2);
+}

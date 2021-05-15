@@ -1,0 +1,28 @@
+.picc img{
+    height: 150px;
+    width: 150px;
+    margin-left: 6%;
+    float: left;
+    margin-right: 5%;
+}
+
+.dostxt1{
+    float: unset;
+}
+
+.dostxt1 p{
+    text-align: justify;
+    margin-right: 7%;
+    font-size: 12pt;
+}
+.dostxt1 strong{
+    color: rgb(24, 160, 50);
+}
+
+.dostxt2{
+    margin-left: 6%;
+}
+
+.dostxt2 strong{
+    color: rgb(24, 160, 50);
+}

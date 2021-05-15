@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+.pic img{
+    height: 150px;
+    width: 250px;
+    margin-left: 6%;
+    float: left;
+}
+
+.inftxt1{
+    float: unset;
+}
+
+.inftxt1 p{
+    text-align: justify;
+    margin-right: 7%;
+    margin-left: 6%;
+    font-size: 12pt;
+}
+.inftxt1 strong{
+    color: rgb(24, 160, 50);
+}
+
+.inftxt1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+
+.inftxt2{
+    margin-left: 6%;
+}
+
+.inftxt2 strong{
+    color: rgb(24, 160, 50);
+}
+
+.ssl{
+    margin-left: 6%;
+    font-size: 15pt;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+
+.ssl a{
+    color: rgb(24, 160, 50) ;
+    text-decoration: none;
+}

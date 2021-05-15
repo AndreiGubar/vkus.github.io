@@ -1,0 +1,173 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+    color: rgb(24, 160, 50);
+    font-size: 28pt;
+    font-weight: bolder;
+}
+
+
+.des1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+    }
+.des1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 12%;
+    float: left;
+}
+.des1:hover {
+    transform: scale(1.2);
+}
+
+
+.des2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.des2:hover {
+    transform: scale(1.2);
+}
+
+.des3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.des3:hover {
+    transform: scale(1.2);
+}
+
+
+.des4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.des4:hover {
+    transform: scale(1.2);
+}
+
+
+.des5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des5{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 12%;
+    float: left;
+}
+.des5:hover {
+    transform: scale(1.2);
+}
+
+.des6 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des6 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des6{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.des6:hover {
+    transform: scale(1.2);
+}
+
+.des7 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des7 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des7{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.des7:hover {
+    transform: scale(1.2);
+}
+
+
+.des8 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.des8 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.des8 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.des8:hover {
+    transform: scale(1.2);
+}

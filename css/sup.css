@@ -1,0 +1,91 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+.sup1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sup1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sup1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 12%;
+    float: left;
+}
+.sup1:hover {
+    transform: scale(1.2);
+}
+
+
+.sup2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sup2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sup2{display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.sup2:hover {
+    transform: scale(1.2);
+}
+
+
+.sup3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sup3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sup3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.sup3:hover {
+    transform: scale(1.2);
+}
+
+
+.sup4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.sup4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.sup4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.sup4:hover {
+    transform: scale(1.2);
+}

@@ -1,0 +1,133 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+
+.garn1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.garn1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.garn1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 23%;
+    float: left;
+}
+.garn1:hover {
+    transform: scale(1.2);
+}
+
+
+.garn2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.garn2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.garn2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.garn2:hover {
+    transform: scale(1.2);
+}
+
+
+.garn3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.garn3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.garn3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.garn3:hover {
+    transform: scale(1.2);
+}
+
+
+.garn4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.garn4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.garn4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 23%;
+    float: left;
+}
+.garn4:hover {
+    transform: scale(1.2);
+}
+
+.garn5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.garn5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.garn5 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.garn5:hover {
+    transform: scale(1.2);
+}
+
+
+.garn6 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.garn6 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.garn6 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.garn6:hover {
+    transform: scale(1.2);
+}

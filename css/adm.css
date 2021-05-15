@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+.txt1 {
+    margin-left:25%;
+    float: left;
+}
+
+.txt1 b{
+    color: rgb(24, 160, 50);
+}
+
+.txt2 {
+    margin-left: 60%;
+}
+
+.txt2 b{
+    color: rgb(24, 160, 50);
+}

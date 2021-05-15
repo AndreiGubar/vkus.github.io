@@ -1,0 +1,256 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+
+.gorb1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 12%;
+    float: left;
+}
+.gorb1:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.gorb2:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.gorb3:hover {
+    transform: scale(1.2);
+}
+
+.gorb4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.gorb4:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb5{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 12%;
+    float: left;
+}
+.gorb5:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb6 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb6 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb6{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.gorb6:hover {
+    transform: scale(1.2);
+}
+
+.gorb7 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb7 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb7{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.gorb7:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb8 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb8 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb8 {display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.gorb8:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb9 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb9 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb9{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 12%;
+    float: left;
+}
+.gorb9:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb10 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb10 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb10{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.gorb10:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb11 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb11 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb11{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.gorb11:hover {
+    transform: scale(1.2);
+}
+
+
+.gorb12 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.gorb12 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.gorb12 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.gorb12:hover {
+    transform: scale(1.2);
+}

@@ -1,0 +1,125 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+/*Меню*/
+.comp{
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 12%;
+    float: left;
+}
+.comp:hover {
+    transform: scale(1.2);
+}
+.comp img{
+    width: 250px;
+    height: 250px;
+    transform: 1s;
+}
+
+
+.sup{
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+}
+.sup:hover {
+    transform: scale(1.2);
+}
+.sup img{
+    width: 250px;
+    height: 250px;
+}
+
+
+.garn{
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+}
+.garn:hover {
+    transform: scale(1.2);
+}
+.garn img{
+    width: 250px;
+    height: 250px;
+
+}
+
+
+.gorb{
+    display: inline-block;
+    overflow: hidden;
+}
+.gorb:hover {
+    transform: scale(1.2);
+}
+.gorb img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+
+.sal{
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 12%;
+    float: left;
+}
+.sal:hover{
+    transform: scale(1.2);
+}
+.sal img{
+    width: 250px;
+    height: 250px;
+}
+
+
+.fast{
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+}
+.fast:hover{
+    transform: scale(1.2);
+}
+.fast img{
+    width: 250px;
+    height: 250px;
+}
+
+
+.desert{
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+}
+.desert:hover{
+    transform: scale(1.2);
+}
+.desert img{
+    width: 250px;
+    height: 250px;
+}
+
+
+.nap{
+    display: inline-block;
+    overflow: hidden;
+}
+.nap:hover{
+    transform: scale(1.2);
+}
+.nap img{
+    width: 250px;
+    height: 250px;
+}

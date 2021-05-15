@@ -1,0 +1,156 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+
+.fast1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 250px;
+}
+.fast1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 23%;
+    float: left;
+}
+.fast1:hover {
+    transform: scale(1.2);
+}
+
+
+.fast2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 250px;
+}
+.fast2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.fast2:hover {
+    transform: scale(1.2);
+}
+
+
+.fast3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+}
+.fast3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.fast3:hover {
+    transform: scale(1.2);
+}
+
+
+.fast4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.fast4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 13%;
+    float: left;
+}
+.fast4:hover {
+    transform: scale(1.2);
+}
+
+
+.fast5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+
+}
+.fast5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast5 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.fast5:hover {
+    transform: scale(1.2);
+}
+
+
+.fast6 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.fast6 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast6 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.fast6:hover {
+    transform: scale(1.2);
+}
+
+
+.fast7 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.fast7 a{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.fast7 {
+    margin-left: 73%;
+}
+.fast7:hover {
+    transform: scale(1.2);
+}

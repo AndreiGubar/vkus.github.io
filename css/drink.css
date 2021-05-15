@@ -1,0 +1,161 @@
+*{
+    background: #f2f3f4;
+}
+
+h1{
+    text-align: center;
+	color: rgb(24, 160, 50);
+	font-size: 28pt;
+	font-weight: bolder;
+}
+
+
+.nap1 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.nap1 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap1{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 23%;
+    float: left;
+}
+.nap1:hover {
+    transform: scale(1.2);
+}
+
+
+.nap2 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.nap2 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap2{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.nap2:hover {
+    transform: scale(1.2);
+}
+
+
+.nap3 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.nap3 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap3{
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.nap3:hover {
+    transform: scale(1.2);
+}
+
+
+.nap4 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+
+}
+.nap4 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap4 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 13%;
+    float: left;
+}
+.nap4:hover {
+    transform: scale(1.2);
+}
+
+
+
+.nap5 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+
+}
+.nap5 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap5 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.nap5:hover {
+    transform: scale(1.2);
+}
+
+
+
+.nap6 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+.nap6 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap6 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+    float: left;
+}
+.nap6:hover {
+    transform: scale(1.2);
+}
+
+
+
+.nap7 img{
+    border-radius: 30px;
+    width: 200px;
+    height: 150px;
+
+}
+.nap7 a{
+    text-decoration: none;
+    color: rgb(24, 160, 50);
+}
+.nap7 {
+    display: inline-block;
+    overflow: hidden;
+    transform: 1s;
+    margin-left: 5%;
+}
+.nap7:hover {
+    transform: scale(1.2);
+}
